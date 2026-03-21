@@ -12,4 +12,3 @@ I’m a full-stack developer who enjoys building scalable and impactful web appl
 ![](https://nirzak-streak-stats.vercel.app/?user=Omkar18u&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar18u&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
